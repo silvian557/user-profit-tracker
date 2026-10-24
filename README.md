@@ -1,8 +1,9 @@
 # User Profit Calculator
 
-Un program simplu scris în **Python** care ajută la calcularea profitului net per utilizator, având un comision predefinit.
+A simple Python program that helps calculate the net profit per user, featuring a predefined commission fee.
 
-## Cum se rulează
-1. Asigură-te că ai Python instalat pe calculator (sau folosește un compiler online cum ar fi OnlineGDB).
-2. Rulează fișierul `proiect_profit.py`.
-3. Introdu numele și suma depusă când ți se cere.
+## How to Run
+
+1. Make sure Python is installed on your computer (or use an online compiler like OnlineGDB).
+2. Run the `proiect_profit.py` file.
+3. Enter the name and the deposited amount when prompted.
